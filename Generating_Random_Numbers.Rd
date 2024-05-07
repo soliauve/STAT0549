@@ -15,4 +15,4 @@ while(k < n){ #this condition checks wheter we have achieved the desired number 
 	}
 }
 j
-y # Y~ UNI(0,1)
+y # Yi~ UNI(0,1) (Will fix later cause this is a rough note.) Pretty sure this is not the correct way of writing what I meant.
